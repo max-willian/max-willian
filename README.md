@@ -2,6 +2,8 @@
 
 Desenvolvedor Fullstack no estadao.com.br
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&url=https://www.linkedin.com/in/max-willian-maluf/)](https://www.linkedin.com/in/max-willian-maluf/) 
+
 Sou dev desde 2014, e atualmente estou focado nos estudos das minhas tecnologias preferidas para web e mobile: Laravel, Node.js, React e React Native, mas estou sempre aberto para desafios em novas linguagens. 
 
 Vocês podem checar meus experimentos malucos aqui no github 👇
